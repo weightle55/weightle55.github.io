@@ -1,3 +1,5 @@
+remote_theme: just-the-docs/just-the-docs
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole site, values
@@ -18,8 +20,6 @@ description: description
 baseurl: "/blog"
 url: "https://weightle55.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: weightle55.github.io # for github-metadata
-
-theme: just-the-docs
 
 permalink: pretty
 
