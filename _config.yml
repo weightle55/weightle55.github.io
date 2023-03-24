@@ -17,7 +17,7 @@ remote_theme: just-the-docs/just-the-docs
 # in the templates via {{ site.myvariable }}.
 title: Weightle55 블로그
 description: description
-baseurl: "/blog"
+baseurl: "/"
 url: "https://weightle55.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: weightle55.github.io # for github-metadata
 
