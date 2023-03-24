@@ -182,15 +182,3 @@ compress_html:
   # ignore:
   #   envs: all
 
-#Site settings
-
-title: Weightle55 블로그
-description: description
-baseurl: ""
-url: "https://weightle55.github.io/"
-
-# Aux links for the upper right navigation
-aux_links:
-  "Weightle55 on GitHub":
-    - "//github.com/weightle55"
-
