@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Architecture
+title: MSA
 description: "Micro-Service Architecture"
 permlink: /architecture/msa
-Parent: Architecture
+parent: Architecture
 ---
 
 # MSA
