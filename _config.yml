@@ -20,7 +20,6 @@ description: description
 url: "https://weightle55.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: ""
 repository: weightle55.github.io # for github-metadata
-theme: "just-the-docs"
 remote_theme: just-the-docs/just-the-docs
 
 permalink: pretty
