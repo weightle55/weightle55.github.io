@@ -1,7 +1,7 @@
 ---
 layout: default
 title : 1. Monolithic 아키텍쳐
-description : 모놀리식 아키텍쳐
+description : "모놀리식 아키텍쳐"
 nav-order: 1
 parent: MSA
 ---
